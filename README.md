@@ -12,3 +12,7 @@ This SOP shows how to enable ICMPv4 on your local Windows Firewall.<br />
 <p>
 <img src="https://imgur.com/vDBFvpT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Make sure the Echo ICMPv4 options are enabled by clicking "Enable" under Selected Items on the righthand side of the screen.
+</p>
+<br />
