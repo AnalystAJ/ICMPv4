@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
 <img src="https://imgur.com/Hwqh89G.png" alt="ICMPv4 logo"/>
 </p>
 
